@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chojunhyung/CLionProjects/DataStructure/binarysearchtree/binarysearchtree.cpp
+binarysearchtree.h
+/Users/chojunhyung/CLionProjects/DataStructure/binarysearchtree/binarysearchtree.h
+stdio.h
+-
+
+/Users/chojunhyung/CLionProjects/DataStructure/binarysearchtree/binarysearchtree.h
+
+/Users/chojunhyung/CLionProjects/DataStructure/binarysearchtree/binarysearchtree2.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+binarysearchtree.h
+/Users/chojunhyung/CLionProjects/DataStructure/binarysearchtree/binarysearchtree.h
+
+/Users/chojunhyung/CLionProjects/DataStructure/binarysearchtree/main.cpp
+stdio.h
+-
+binarysearchtree.h
+/Users/chojunhyung/CLionProjects/DataStructure/binarysearchtree/binarysearchtree.h
+

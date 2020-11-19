@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/postfix/infix.cpp" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/postfix/main.cpp" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/postfix/postfix.cpp" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/postfix/stack.cpp" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/postfix/stack.h" charset="x-windows-949" />
+    <file url="PROJECT" charset="x-windows-949" />
+  </component>
+</project>
